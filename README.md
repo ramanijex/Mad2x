@@ -3,6 +3,7 @@
 
 1. clone your respository.
    ```
+   git clone https://github.com/ramanijex/Mad2x.git
    ```
 2. INSTALL NODE MODULES
    ```
